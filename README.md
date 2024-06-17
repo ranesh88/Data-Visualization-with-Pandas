@@ -4,11 +4,18 @@ Data visualization is the representation of data through use of common graphics,
 Table of Contents 
 
 Line Plot
+
 Bar Plot
+
 Stacked Plot
+
 Histogram
+
 Box Plot
+
 Area and Scatter plot
+
 Hex And Ple Plot
+
 Scatter Matrix and SubPlots
 
